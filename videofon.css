@@ -1,0 +1,4 @@
+.videofon{height: 70vh; width: 100%; position: relative; display: flex; justify-content: center; align-items: center;}
+.videofon video{height: 70vh; width: 100%; position: absolute; top: 0; left: 0; object-fit: cover; z-index: 1;}
+.black{height: 70vh; width: 100%; position: absolute; top: 0; left: 0; object-fit: cover; z-index: 2; background-color: black; background: rgba(0.5,0.5,0.5,0.5);}
+.video-text{color: aquamarine; font-family: Michroma; font-size: 50px; z-index: 2;}
